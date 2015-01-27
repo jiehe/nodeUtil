@@ -1,0 +1,22 @@
+{
+  "name": "nodeUtil",
+  "version": "1.0.0",
+  "description": "combine.li's nodeUtil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jiehe/nodeUtil.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "combine.li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiehe/nodeUtil/issues"
+  },
+  "homepage": "https://github.com/jiehe/nodeUtil"
+}
